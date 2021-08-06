@@ -5,4 +5,6 @@
 
 ### Projetos
 #### Java
-* Bootcamp Santander - [Java Experts](https://github.com/OptionSistemas/javadio-experts)
+* Bootcamp - Digital Innovation One/Santander - [Java Experts](https://github.com/OptionSistemas/javadio-experts)
+* Bootcamp - Digital Innovation One/Santander - [Person API](https://github.com/OptionSistemas/PersonAPI)
+
