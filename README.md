@@ -1,3 +1,8 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptionSistemas)](https://github.com/OptionSistemas/github-readme-stats)
+
+
 ## About me
 * Name: Reuber Moura
 * Pronouns: he/his
