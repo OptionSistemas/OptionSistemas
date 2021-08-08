@@ -14,7 +14,9 @@
   * Projeto com arquitetura baseada em microsserviços usando Spring Cloud
 * Bootcamp - Digital Innovation One/Santander - [Person API](https://github.com/OptionSistemas/PersonAPI)
   * Sistema de gerenciamento de pessoas em API REST com Spring Boot
-* Bootcamp - Digital Innovation One/Santander - [Controle de Acesso - Spring Boot](https://github.com/OptionSistemas/controle_acesso_springboot_dioI)
+* Bootcamp - Digital Innovation One/Santander - [Controle de Acesso - Spring Boot](https://github.com/OptionSistemas/controle_acesso_springboot_dio)
   * Sistema de Controle de Ponto com API REST, Spring Boot, Hibernet Envers, Lombok, Swagger
+* Bootcamp - Digital Innovation One/Santander - [Sala de Reunião - Spring Boot](https://github.com/OptionSistemas/saladereuniao_springboot_dio)
+  * Sistema de Sala de Reunião com API REST e Spring Boot - Front End em [Angular](https://github.com/OptionSistemas/client-room-java-spring)
   
  ##### [Desafios de Código em Java](https://github.com/OptionSistemas/dio_desafiosjava)
