@@ -20,3 +20,7 @@
   * Sistema de Sala de Reunião com API REST e Spring Boot - Front End em [Angular](https://github.com/OptionSistemas/client-room-java-spring)
   
  ##### [Desafios de Código em Java](https://github.com/OptionSistemas/dio_desafiosjava)
+
+#### Python
+* Bootcamp - Digital Innovation One/Cognizant Cloud Data Engineer - [Python/Pandas](https://github.com/OptionSistemas/dio_pandas_proj01)
+  * Análise de dados com Python e Pandas
