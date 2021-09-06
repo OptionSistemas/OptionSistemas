@@ -24,3 +24,9 @@
 #### Python
 * Bootcamp - Digital Innovation One/Cognizant Cloud Data Engineer - [Python/Pandas](https://github.com/OptionSistemas/dio_pandas_proj01)
   * Análise de dados com Python e Pandas
+* Bootcamp - Digital Innovation One/Cognizant Cloud Data Engineer - [Hadoop/Google Cloud Dataproc](https://github.com/OptionSistemas/dio-dataproc)
+  * Criando um ecossitema Hadoop totalmente gerenciado com Google Cloud Platform
+  
+ ##### [Desafios de Código em Python](https://github.com/OptionSistemas/DioDesafiosPython)
+
+
